@@ -17,14 +17,11 @@ namespace Pets
             get { return name; }
             set
             {
-                if (string.IsNullOrWhiteSpace(value))
+                if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentNullException(nameof(value), "Name cannot be null or whitespace.");
+                    throw new ArgumentException("Name cannot be empty");
                 }
-                else
-                {
-                    name = value;
-                }
+                name = value;
             }
         }
         public string Type
