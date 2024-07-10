@@ -14,14 +14,7 @@ namespace Pets
         public string Name
         { 
             get { return name; }
-            set
-            {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentException("Name cannot be empty");
-                }
-                name = value;
-            }
+            set { name = value; }
         }
         public int Age 
         { 
