@@ -11,8 +11,6 @@ namespace Pets
         
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-
             PetStore petStore = new PetStore();
 
             Console.Write("Въведете брой домашни любимци: ");
@@ -49,12 +47,6 @@ namespace Pets
 
             petStore.DisplayPets();
             petStore.DisplayOwners();
-
-            for (int i = 0; i < 1000000000; i++)
-            {
-                // Изпълнение на време
-            }
-
         }
     }
 }
