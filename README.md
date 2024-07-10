@@ -16,5 +16,5 @@
 ![7](https://github.com/EstirTasheva/Pets/assets/175013942/84020a71-828d-44ee-be5b-a3b2ee316cbd)
 ![8](https://github.com/EstirTasheva/Pets/assets/175013942/4fff1f68-1575-4311-8413-14550d7c488b)
 ## Демо на живо
-Можете да играете играта директно във вашия уеб браузър тук:
+Можете да пуснете програмата директно във вашия уеб браузър тук:
 [[<img alt ="Play Button" />]](https://replit.com/join/hqdrrxwbyb-estir28)
