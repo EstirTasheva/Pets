@@ -7,7 +7,8 @@
 Решението, което предоставя проектът, е софтуерна система, която ефективно управлява данните за домашни любимци и техните собственици. Основни технологии, които са използвани са C# и Visual Studio. Алгоритмите в програмата са първо събиране на входни данни: потребителят въвежда броя на домашните любимци, техните име, вид и възраст, броя на собствениците, техните име и възраст, след което тези данни се добавят в списъци и накрая се показват на потребителя след стартирането на програмата.
 
 [Source Code](https://github.com/EstirTasheva/Pets.git)
-![5](https://github.com/EstirTasheva/Pets/assets/175013942/37d68a71-57f9-4b83-917b-fd7da768e23c)
+
+![image](https://github.com/EstirTasheva/Pets/assets/175013942/132117e1-94a5-4e94-b19c-20d06479a23c)
 ![2](https://github.com/EstirTasheva/Pets/assets/175013942/d04a1b7f-427a-4540-84f3-510ed8acb513)
 ![3](https://github.com/EstirTasheva/Pets/assets/175013942/819e9a8c-e223-49cf-94ea-ea66e41d1c06)
 ![4](https://github.com/EstirTasheva/Pets/assets/175013942/f6bd151a-0e32-428e-8d3a-091388c7be21)
